@@ -1,0 +1,271 @@
+{
+  "description": "New design",
+  "name": "New design",
+  "preview_medium": "",
+  "preview_small": "",
+  "author": "",
+  "layouts": [
+    {
+      "content_type": "page",
+      "component": false,
+      "file": "layouts/blog___news.tpl",
+      "layout_name": "page_default",
+      "title": "Blog & news"
+    },
+    {
+      "content_type": "page",
+      "component": false,
+      "file": "layouts/blog_article.tpl",
+      "layout_name": "page_default",
+      "title": "Blog article"
+    },
+    {
+      "content_type": "page",
+      "component": false,
+      "file": "layouts/common_page.tpl",
+      "layout_name": "page_default",
+      "title": "Common page"
+    },
+    {
+      "content_type": "page",
+      "component": false,
+      "file": "layouts/front_page.tpl",
+      "layout_name": "page_default",
+      "title": "Front page"
+    },
+    {
+      "content_type": "page",
+      "component": false,
+      "file": "layouts/pong.tpl",
+      "layout_name": "page_default",
+      "title": "Pong"
+    },
+    {
+      "content_type": "page",
+      "component": false,
+      "file": "layouts/react.tpl",
+      "layout_name": "page_default",
+      "title": "React"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/comment-form.tpl",
+      "layout_name": "comment-form",
+      "title": "comment-form"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/comments.tpl",
+      "layout_name": "comments",
+      "title": "comments"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/footer.tpl",
+      "layout_name": "footer",
+      "title": "footer"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/header.tpl",
+      "layout_name": "header",
+      "title": "header"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/html-head.tpl",
+      "layout_name": "html-head",
+      "title": "html-head"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/javascripts.tpl",
+      "layout_name": "javascripts",
+      "title": "javascripts"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/menu-lang-mobile.tpl",
+      "layout_name": "menu-lang-mobile",
+      "title": "menu-lang-mobile"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/menu-lang.tpl",
+      "layout_name": "menu-lang",
+      "title": "menu-lang"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/menu-level-1.tpl",
+      "layout_name": "menu-level-1",
+      "title": "menu-level-1"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/menu-level-2.tpl",
+      "layout_name": "menu-level-2",
+      "title": "menu-level-2"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/menu-mobile.tpl",
+      "layout_name": "menu-mobile",
+      "title": "menu-mobile"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/news.tpl",
+      "layout_name": "news",
+      "title": "news"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/post-box.tpl",
+      "layout_name": "post-box",
+      "title": "post-box"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/search.tpl",
+      "layout_name": "search",
+      "title": "search"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/sidebar.tpl",
+      "layout_name": "sidebar",
+      "title": "sidebar"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/tags-blog.tpl",
+      "layout_name": "tags-blog",
+      "title": "tags-blog"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/tags-post.tpl",
+      "layout_name": "tags-post",
+      "title": "tags-post"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/tags-translations.tpl",
+      "layout_name": "tags-translations",
+      "title": "tags-translations"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/topbar.tpl",
+      "layout_name": "topbar",
+      "title": "topbar"
+    },
+    {
+      "content_type": "component",
+      "component": true,
+      "file": "components/voog-ref.tpl",
+      "layout_name": "voog-ref",
+      "title": "voog-ref"
+    }
+  ],
+  "assets": [
+    {
+      "content_type": "image/svg+xml",
+      "file": "assets/ico-flags.svg",
+      "kind": "assets",
+      "filename": "ico-flags.svg"
+    },
+    {
+      "content_type": "application/x-wais-source",
+      "file": "javascripts/src",
+      "kind": "javascripts",
+      "filename": "src"
+    },
+    {
+      "content_type": "application/javascript",
+      "file": "javascripts/application.js",
+      "kind": "javascripts",
+      "filename": "application.js"
+    },
+    {
+      "content_type": "application/javascript",
+      "file": "javascripts/application.min.js",
+      "kind": "javascripts",
+      "filename": "application.min.js"
+    },
+    {
+      "content_type": "application/javascript",
+      "file": "javascripts/modernizr.js",
+      "kind": "javascripts",
+      "filename": "modernizr.js"
+    },
+    {
+      "content_type": "application/javascript",
+      "file": "javascripts/modernizr.min.js",
+      "kind": "javascripts",
+      "filename": "modernizr.min.js"
+    },
+    {
+      "content_type": "application/x-wais-source",
+      "file": "javascripts/src",
+      "kind": "javascripts",
+      "filename": "src"
+    },
+    {
+      "content_type": "text/css",
+      "file": "stylesheets/main.css",
+      "kind": "stylesheets",
+      "filename": "main.css"
+    },
+    {
+      "content_type": "text/css",
+      "file": "stylesheets/main.min.css",
+      "kind": "stylesheets",
+      "filename": "main.min.css"
+    },
+    {
+      "content_type": "text/css",
+      "file": "stylesheets/normalize.css",
+      "kind": "stylesheets",
+      "filename": "normalize.css"
+    },
+    {
+      "content_type": "text/css",
+      "file": "stylesheets/normalize.min.css",
+      "kind": "stylesheets",
+      "filename": "normalize.min.css"
+    },
+    {
+      "content_type": "text/css",
+      "file": "stylesheets/skeleton.css",
+      "kind": "stylesheets",
+      "filename": "skeleton.css"
+    },
+    {
+      "content_type": "text/css",
+      "file": "stylesheets/skeleton.min.css",
+      "kind": "stylesheets",
+      "filename": "skeleton.min.css"
+    }
+  ]
+}
